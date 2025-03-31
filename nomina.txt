@@ -1,0 +1,2 @@
+nombre valor
+alex 60.000.000
